@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="595d0f0a-a33c-4e0b-91bc-0d5fb85d22cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.stylelintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.stylelintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backstop_data/engine_scripts/cookies.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backstop_data/engine_scripts/puppet/clickAndHoverHelper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backstop_data/engine_scripts/puppet/loadCookies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backstop_data/engine_scripts/puppet/onBefore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backstop_data/engine_scripts/puppet/onReady.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588917561466</updated>
-      <workItem from="1588917563493" duration="7970000" />
+      <workItem from="1588917563493" duration="8731000" />
     </task>
     <servers />
   </component>
