@@ -1,8 +1,8 @@
 'use strict';
 // https://github.com/garris/BackstopJS#advanced-scenarios
 
-const backstop = require('@mate-academy/backstop-config');
-const { basicScenario } = backstop;
+const backstopConfig = require('@mate-academy/backstop-config');
+const { basicScenario } = backstopConfig;
 
 const basic = {
   ...basicScenario,
@@ -11,7 +11,7 @@ const basic = {
 };
 
 const config = {
-  ...backstop,
+  ...backstopConfig,
   fileNameTemplate: '{scenarioLabel}_{viewportLabel}',
   onBeforeScript: 'puppet/onBefore.js',
   onReadyScript: 'puppet/onReady.js',
